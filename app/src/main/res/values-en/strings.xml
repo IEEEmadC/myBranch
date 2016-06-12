@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myBranch</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="Gallery">Activities Gallery</string>
+    <string name="Noticias">News</string>
+    <string name="Interactuar">Interact</string>
+</resources>

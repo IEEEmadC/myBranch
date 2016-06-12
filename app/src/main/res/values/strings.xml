@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myBranch</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="Gallery">Galeria de Actividades</string>
+    <string name="Noticias">Noticias</string>
+    <string name="Interactuar">Interactuar</string>
+</resources>
